@@ -1,5 +1,9 @@
 # sudoku
 
+A sudoku solver.
+
+![Soduku Solver Render](https://user-images.githubusercontent.com/2607973/114777810-628b5e00-9d74-11eb-9ee5-9cb226d02c61.png)
+
 ## Project setup
 ```
 yarn install
